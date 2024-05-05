@@ -1,4 +1,4 @@
-![Banner]([https://spotify-recently-played-readme.vercel.app/api?user=iqjivo7357ulzf1249muctdas](https://github.com/AbyanCore/AbyanCore/blob/main/CusBanner.png))
+![Banner](https://github.com/AbyanCore/AbyanCore/blob/main/CusBanner.png)
 <h1 align="center">Hi 🙌, I am Abyan</h1>
 
 ###
