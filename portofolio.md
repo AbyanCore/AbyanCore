@@ -84,7 +84,7 @@ Platform *full-stack* untuk manajemen bisnis laundry. Fiturnya mencakup pelacaka
 	- **Status:** Profesional (Private/NDA)  
 	- **Deskripsi:** Sistem internal untuk pengelolaan tiket dukungan (*support ticket*) antara pengguna dan tim IT dengan komunikasi dua arah yang efisien.  
 	- **Fitur Unggulan:**
-	  - **Manajemen Tiket Terpusat** — admin dapat membuat, menugaskan, dan melacak tiket dari dashboard web.  
-	  - **Pelaporan & Notifikasi Realtime** — pengguna melaporkan masalah melalui aplikasi Android dengan pembaruan status instan.  
-	  - **Cross-Platform Integration** — integrasi penuh antara web (admin panel) dan Android (pengguna) untuk sinkronisasi data tiket secara real-time.  
-	  - **Riwayat & Analitik Tiket** — menyediakan log dan laporan performa penanganan tiket untuk analisis internal.  
+	  - **Manajemen Tiket Terpusat** admin dapat membuat, menugaskan, dan melacak tiket dari dashboard web.  
+	  - **Pelaporan & Notifikasi Realtime** pengguna melaporkan masalah melalui aplikasi Android dengan pembaruan status instan.  
+	  - **Cross-Platform Integration** integrasi penuh antara web (admin panel) dan Android (pengguna) untuk sinkronisasi data tiket secara real-time.  
+	  - **Riwayat & Analitik Tiket** menyediakan log dan laporan performa penanganan tiket untuk analisis internal.  
